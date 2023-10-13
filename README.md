@@ -16,4 +16,4 @@ If you’ve never played the official version before, you can try it [here](http
 
 ## Display
 Below is the display of the game.
-![display screen](display.png)
+![display screen](image/display.png)
