@@ -1,6 +1,6 @@
 # word-processing-game
+## This is a Wordle-like program
 
-This is a Wordle-like program
 - The player guesses a word and receives feedback on how close their guess was to the solution word
 - For each letter in the solution word, the game tells the player if the letter is <ins>*in the correct location*</ins>, if the letter exists in the word but is <ins>*not in the correct location*</ins>, or if the letter does <ins>*not exist in the word*</ins>
 - The player gets 6 attempts to figure out the word
@@ -16,4 +16,5 @@ If you’ve never played the official version before, you can try it [here](http
 
 ## Display
 Below is the display of the game.
+
 ![display screen](display.png)
