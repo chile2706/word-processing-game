@@ -1,4 +1,4 @@
-# word-processing-game
+# Word Processing Game
 ## This is a Wordle-like program
 
 - The player guesses a word and receives feedback on how close their guess was to the solution word
