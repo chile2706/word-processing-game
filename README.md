@@ -8,7 +8,7 @@
 If you’ve never played the official version before, you can try it [here](https://www.nytimes.com/games/wordle/index.html)
 
 ## Design
-- Get the list of acceptable solution words and store it in an ArrayList
+- Get the [list](words.txt) of acceptable solution words and store it in an ArrayList
 - Randomly select a solution word and delete it from the list of the solution words
 - Prompt the user to guess the word and give them feedback (6 times at maximum)
 - Ask the user to play again or quit after the game finishes
